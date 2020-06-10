@@ -8,7 +8,8 @@ https://github.com/Bishworajkdk/track
 
 In order to run the model in the simulator car, we need to create the anaconda environment. 
 - conda create --name myenviron
-- source activate myenviron
+- source activate myenviron (For activating the environment in terminal)
+
 Then, we need to install all the dependencies for web sockets.
 - conda install -c anaconda flask
 - conda install -c conda-forge eventlet
